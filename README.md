@@ -1,6 +1,4 @@
-# Linguagem de Marcação
-
-## SENAI-LM-01_Galeria_SOL
+# LM-03-Galeria3x3
 
 ![](./Preview/Captura%20de%20Tela%202025-02-24%20às%2010.58.24.png)
 
