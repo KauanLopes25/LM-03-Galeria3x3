@@ -4,7 +4,6 @@
 
 Primeira página criada utilizando classes e adicionando imagens, desenvolvido nas aulas de diciplina linguagem de marcação na escola SENAI Jandira.
 
-
 ## Tecnologias
 
 * HTML
